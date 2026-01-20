@@ -1,0 +1,5 @@
+name: noExp
+version: '0.1'
+main: io.papermc.noexp.noExp
+api-version: '1.21'
+description: Disallows exp collection
